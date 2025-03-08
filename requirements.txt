@@ -1,10 +1,6 @@
 streamlit
 pandas
 plotly
-streamlit
-pandas
-plotly
-streamlit 
-pandas 
-plotly
-datetime 
+psycopg2-binary
+python-dotenv
+SQLAlchemy
